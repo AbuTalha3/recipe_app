@@ -65,7 +65,7 @@ In order to run this project you need:
 ```
     `ruby >= 3.2.2`
     `rails >= 7.0`
-    postgres >- 15.3
+    `postgres >- 15.3`
 ```
 
 ### Setup
