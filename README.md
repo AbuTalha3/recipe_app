@@ -63,7 +63,7 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 ```
-    ruby >= 3.2.2
+    `ruby >= 3.2.2`
     rails >= 7.0
     postgres >- 15.3
 ```
